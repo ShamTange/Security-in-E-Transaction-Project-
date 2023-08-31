@@ -21,8 +21,14 @@ The dataset consists of around 800 transactions out of which 39 transactions are
 fraud.
 Total amount is 97.01M. Logistic regression are likely to perform very well on such 
 a dataset
-System Flow
+
+#System Flow
 
 ![image](https://github.com/ShamTange/Security-in-E-transaction/assets/101647764/55ac85d1-3b74-4ab0-affc-9d80435efb6d)
+
+
+#data analysis Dashboard :
+![image](https://github.com/ShamTange/Security-in-E-transaction/assets/101647764/90c21bd5-2f8e-46f1-b1a6-c09271c5e5fb)
+
 
 
