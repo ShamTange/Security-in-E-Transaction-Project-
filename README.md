@@ -18,5 +18,11 @@ we use the following features to train our models.
 5) Recipient account balance before transaction 
 6) Recipient account balance after transaction 
 The dataset consists of around 800 transactions out of which 39 transactions are labeled as 
-fraud. Total amount is 97.01M. Logistic regression are likely to perform very well on such 
+fraud.
+Total amount is 97.01M. Logistic regression are likely to perform very well on such 
 a dataset
+System Flow
+
+![image](https://github.com/ShamTange/Security-in-E-transaction/assets/101647764/55ac85d1-3b74-4ab0-affc-9d80435efb6d)
+
+
